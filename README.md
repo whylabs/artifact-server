@@ -2,7 +2,7 @@ Container to mimick the Github action artifact server so that local CI runs via 
 
 Forked from previous iterations of this tool just for stability.
 
-See images [here](ghcr.io/whylabs/artifact-server). `latest` will be the most recent. 
+See images [here](https://ghcr.io/whylabs/artifact-server). `latest` will be the most recent. 
 
 ## Usage
 
